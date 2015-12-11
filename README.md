@@ -3,6 +3,8 @@ Consume RESTFul Web Services in Java without using 3rd party APIs
 
 From my blog: http://blogs.niteshapte.com/2013-11-08-how-to-consume-rest-web-service-in-java.htm
 
+# How to consume REST Web Service in Java
+
 What is Web Service?
 
     Web Services is a technology which provides an efficient way to share application logic across multiple machines running various operating systems and using different development environments.
